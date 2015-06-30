@@ -1,0 +1,5 @@
+Component: main
+Origin: omv-extras.org
+Label: omv-extras.org-stoneburner-mono
+Architecture: amd64
+Description: omv-extras plugin repository for mono
